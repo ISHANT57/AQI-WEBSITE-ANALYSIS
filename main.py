@@ -1750,4 +1750,4 @@ def seasonal_forecast():
 # Health recommendations API endpoint removed as requested
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5500, debug=True)
+    app.run(host='0.0.0.0', port=10000, debug=True)
